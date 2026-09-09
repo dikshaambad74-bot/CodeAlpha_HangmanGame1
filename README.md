@@ -1,6 +1,6 @@
 # CodeAlpha_HangmanGame1
 
-# CodeAlpha Hangman Game
+
 
 ## 📌 About
 
